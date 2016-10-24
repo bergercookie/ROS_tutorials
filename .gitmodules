@@ -1,3 +1,6 @@
 [submodule "geometry_tutorials"]
 	path = geometry_tutorials
 	url = https://github.com/ros/geometry_tutorials.git
+[submodule "urdf_tutorial"]
+	path = urdf_tutorial
+	url = https://github.com/ros/urdf_tutorial.git
