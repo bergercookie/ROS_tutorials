@@ -1,0 +1,3 @@
+[submodule "geometry_tutorials"]
+	path = geometry_tutorials
+	url = https://github.com/ros/geometry_tutorials.git
